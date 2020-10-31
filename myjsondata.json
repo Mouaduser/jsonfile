@@ -1,0 +1,60 @@
+{
+	"infoCategories":["History", "Faculty", "Classes"],
+	"pointsOfInterest":[
+		{	
+			"latitude":"44.445095",
+			"longitude":"-88.072877",
+			"name":"Xanten Apartments",
+			"inforange":"50",
+			"info":[
+				"This building was recently acquired by St. Norbert College.",
+				"Many professors work here.",
+				"Many classes are taken here."
+			]
+		},
+		{
+			"latitude":"44.444881",
+			"longitude":"-88.072363",
+			"name":"Premontre Apartments",
+			"inforange":"50",
+			"info":[
+				"This building was recently acquired by St. Norbert College.",
+				"Many professors work here.",
+				"Many classes are taken here."
+			]
+		},
+		{
+			"latitude":"44.445541",
+			"longitude":"-88.068156",
+			"name":"Bemis International Center",
+			"inforange":"50",
+			"info":[
+				"This building is relatively new.",
+				"International stuff happens here",
+				"I don't think there are classes here."
+			]
+		},
+		{
+			"latitude":"44.445484",
+			"longitude":"-88.067668",
+			"name":"Statue of St. Norbert",
+			"inforange":"50",
+			"info":[
+				"He's prett old.",
+				"No professors work here.",
+				"I mean we teach about him...?"
+			]
+		},
+		{
+			"latitude":"44.445488",
+			"longitude":"-88.067331",
+			"name":"Shakespeare Garden",
+			"inforange":"50",
+			"info":[
+				"Not sure when they became a thing",
+				"The groundskeepers do the thing",
+				"Maybe you could have a class here?"
+			]
+		}
+	]
+}
