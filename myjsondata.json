@@ -2,8 +2,8 @@
 	"infoCategories":["History", "Faculty", "Classes"],
 	"pointsOfInterest":[
 		{	
-			"latitude":"44.445095",
-			"longitude":"-88.072877",
+			"latitude":"49.5070677",
+			"longitude":"8.4891761",
 			"name":"Xanten Apartments",
 			"inforange":"50",
 			"info":[
@@ -13,8 +13,8 @@
 			]
 		},
 		{
-			"latitude":"44.444881",
-			"longitude":"-88.072363",
+			"latitude":"49.5066207",
+			"longitude":"8.4915016",
 			"name":"Premontre Apartments",
 			"inforange":"50",
 			"info":[
@@ -24,8 +24,8 @@
 			]
 		},
 		{
-			"latitude":"44.445541",
-			"longitude":"-88.068156",
+			"latitude":"49.5072288",
+			"longitude":"8.4914064",
 			"name":"Bemis International Center",
 			"inforange":"50",
 			"info":[
